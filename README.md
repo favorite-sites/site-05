@@ -4,3 +4,6 @@
 
 https://wergia.tistory.com/223
 
+// 유니티 메타 퀘스트 SDK
+
+https://developer.oculus.com/downloads/unity/
